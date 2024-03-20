@@ -2,7 +2,7 @@
 This repository contains the Lab Test of BCA 7th semester exercises. solutions on how to solve these problems.
 
 #Git Exercises
-a. Fork the repository on Github (https://github.com/sPaudel544/BCALab), open the logs, and figure out how many commits there are.
+a. Fork the repository on Github (https://github.com/sPaudel544/BCALab2080), open the logs, and figure out how many commits there are.
 
 b. Create the branch BCA_Lab_Test and list all of the branches (remote and local)
 
