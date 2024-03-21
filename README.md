@@ -1,5 +1,5 @@
 # LAB Test BCA 7th Semester
-This repository contains the Lab Test of BCA 7th semester exercises. solutions on how to solve these problems.
+This repository contains the Lab Test of BCA 7th semester exercises. .
 
 #Git Exercises
 a. Fork the repository on Github (https://github.com/sPaudel544/BCALab2080), open the logs, and figure out how many commits there are.
