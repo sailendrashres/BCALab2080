@@ -1,0 +1,8 @@
+git init . 
+git clone https://github.com/sPaudel544/BCALab2080
+git remote add origin https://github.com/sPaudel544/BCALab2080
+
+git branch sailendra
+git branch -r
+git branch -l
+git commit -m "First push commit"
